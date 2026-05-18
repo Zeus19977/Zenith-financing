@@ -1,0 +1,202 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Luotettava kumppanisi kaikkiin rahoitusprojekteihisi",
+    "language": "Suomi"
+  },
+  "header": {
+    "home": "Koti",
+    "about": "Tietoja",
+    "services": "Palvelut",
+    "contact": "Ota yhteyttä",
+    "applyButton": "Tee hakemus",
+    "selectLanguage": "Valitse kieli"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinki, Suomi",
+    "email": "allianzfinanzas0@gmail.com",
+    "followUs": "Seuraa meitä",
+    "quickLinks": "Pikaliitännät",
+    "legal": "Oikeudellinen ilmoitus",
+    "privacy": "Yksityisyyskäytäntö",
+    "terms": "Käyttöehdot",
+    "copyright": "© 2024 Zenith Finance. Kaikki oikeudet pidätetään."
+  },
+  "home": {
+    "hero": {
+      "title": "Luotettava kumppanisi kaikkiin rahoitusprojekteihisi",
+      "subtitle": "Pääsy joustaviin ja nopeisiin rahoitusratkaisuihin, jotka sopeutuvat tarpeisiisi",
+      "cta": "Tee hakemus nyt"
+    },
+    "services": {
+      "title": "Palvelumme",
+      "subtitle": "Täydelliset rahoitusratkaisut kaikkiin projekteihisi",
+      "personalLoan": {
+        "title": "Henkilökohtainen Laina",
+        "description": "Saa jopa 500 000€ henkilökohtaisten projektien toteuttamiseen kilpailukykyisillä koroilla ja yksinkertaistetulla prosessilla."
+      },
+      "projectFinancing": {
+        "title": "Projektirahoitus",
+        "description": "Rahoita yrittäjyys-, kiinteistö- tai kaupallisia projekteja asiantuntemuksemme ja kumppaneidemme avulla."
+      },
+      "nonRefundable": {
+        "title": "Takaisinmaksuvapaa Rahoitus",
+        "description": "Pääsy avustuksiin ja taloudelliseen tukeen liiketoimintasi kehittämiseen ilman takaisinmaksuvelvollisuutta."
+      },
+      "businessSupport": {
+        "title": "Yritysten Tuki",
+        "description": "Erikoistuneet rahoitusratkaisut pk-yrityksille ja startupeille henkilökohtaisella tuella."
+      }
+    },
+    "stats": {
+      "title": "Avaintietomme",
+      "clients": "+5000 tyytyväistä asiakasta",
+      "experience": "+10 vuoden kokemus",
+      "approval": "98% hyväksyntäaste",
+      "countries": "Läsnäolo 15 maassa"
+    },
+    "testimonials": {
+      "title": "Asiakkaidemme Lausunnot",
+      "subtitle": "Tutustu siihen, kuinka olemme auttaneet asiakkaitamme toteuttamaan projektinsa",
+      "testimonial1": {
+        "name": "Maria Virtanen",
+        "country": "Suomi",
+        "amount": "€50,000",
+        "text": "Zenith Finance auttoi minua rahoittamaan yritykseni perustamisprojektin vain kahdessa viikossa. Erittäin ammattimainen ja reagoiva tiimi!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Espanja",
+        "amount": "€75,000",
+        "text": "Erinomainen palvelu. Zenith Finance -tiimi oli hyvin huomaavainen ja auttoi minua saamaan tarvitsemani rahoituksen liiketoiminnalleni."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Saksa",
+        "amount": "€120,000",
+        "text": "Erittäin ammattimainen ja luotettava. Zenith Finance auttoi minua rahoittamaan kiinteistöprojektini. Voin vain suositella heitä!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Belgia",
+        "amount": "€35,000",
+        "text": "Nopea ja tehokas palvelu. Sain rahoitukseni alle kuukaudessa. Erittäin tyytyväinen kokemukseeni Zenith Financen kanssa."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italia",
+        "amount": "€250,000",
+        "text": "Zenith Finance tarjosi minulle parhaat rahoitusehdot. Olen erittäin tyytyväinen palveluun ja tiimin ammattitaitoon."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Alankomaat",
+        "amount": "€500,000",
+        "text": "Erittäin tyydyttävä. Zenith Finance tarjosi minulle rahoituksen, jota tarvitsin suureen projektiini. Suositeltava!"
+      }
+    },
+    "howItWorks": {
+      "title": "Kuinka Se Toimii",
+      "subtitle": "Yksinkertainen ja läpinäkyvä prosessi 3 vaiheessa",
+      "step1": {
+        "title": "Täytä Lomake",
+        "description": "Täytä hakemuksemme muutamassa minuutissa henkilökohtaisilla tiedoillasi ja projektillasi."
+      },
+      "step2": {
+        "title": "Hakemuksesi Vahvistaminen",
+        "description": "Asiantuntijatiimimme tutkii hakemuksesi ja ottaa sinuun yhteyttä 24 tunnin kuluessa vastauksen kanssa."
+      },
+      "step3": {
+        "title": "Varojen Vastaanottaminen",
+        "description": "Hyväksynnän jälkeen varat siirretään suoraan tilillesi 2-3 arkipäivässä."
+      }
+    },
+    "partners": {
+      "title": "Pankkikumppanimme",
+      "subtitle": "Työskentelemme parhaille rahoituslaitoksille"
+    }
+  },
+  "about": {
+    "title": "Tietoja Zenith Financesta",
+    "introduction": "Zenith Finance on johtava rahoitusyritys Euroopassa, joka on erikoistunut innovatiivisten ja saavutettavien luottoratkaisujen tarjoamiseen.",
+    "headquarters": "Pääkonttori: Helsinki, Suomi",
+    "mission": {
+      "title": "Meidän Tehtävämme",
+      "description": "Tehdä rahoitus kaikille saavutettavaksi tarjoamalla nopeita, läpinäkyviä ja kunkin tarpeen mukaisia ratkaisuja."
+    },
+    "vision": {
+      "title": "Meidän Visiomme",
+      "description": "Olla Euroopan luotettava rahoituskumppani, joka tunnetaan erinomaisuudesta, innovaatiosta ja asiakkaiden sitoutumisesta."
+    },
+    "values": {
+      "title": "Meidän Arvot",
+      "transparency": "Läpinäkyvyys: Kommunikoimme selkeästi kaikista ehdoista ja ehdoista.",
+      "innovation": "Innovaatio: Käytämme uusimpia teknologioita palveluidemme parantamiseen.",
+      "trust": "Luottamus: Asiakkaidemme luottamus on suurin voimavaramme.",
+      "excellence": "Huippuosaaminen: Olemme sitoutuneet tarjoamaan korkeatasoista palvelua."
+    },
+    "team": {
+      "title": "Johtavamme Tiimi",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Toimitusjohtaja",
+        "bio": "Yli 15 vuoden kokemuksella rahoitusalalta Thomas johtaa Zenith Financea innovaation ja kasvun suuntaan."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Talousjohtaja",
+        "bio": "Rahoitushallinnon ja strategian asiantuntija, Elena varmistaa toimintojemme vahvuuden ja vakauden."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Operaatiojohtaja",
+        "bio": "Prosessien optimoinnin asiantuntija, Lars varmistaa palveluidemme tehokkuuden ja laadun."
+      }
+    }
+  },
+  "form": {
+    "title": "Rahoitushakemus",
+    "subtitle": "Täytä alla oleva lomake lähettääksesi hakemuksesi",
+    "fullName": "Koko Nimi",
+    "email": "Sähköpostiosoite",
+    "phone": "Puhelinnumero",
+    "countryCode": "Maakoodi",
+    "country": "Asuinmaa",
+    "address": "Osoite",
+    "profession": "Ammatti / Toiminta",
+    "monthlyIncome": "Kuukausitulot (€)",
+    "desiredAmount": "Haluttu Summa (€)",
+    "repaymentDuration": "Toivottu Takaisinmaksuaika",
+    "financingType": "Rahoitustyyppi",
+    "personalLoan": "Henkilökohtainen Laina",
+    "projectFinancing": "Projektirahoitus",
+    "nonRefundable": "Takaisinmaksuvapaa Rahoitus",
+    "other": "Muu",
+    "projectDescription": "Syy / Projektin Kuvaus",
+    "submit": "Lähetä Hakemukseni",
+    "successMessage": "Hakemuksesi on vastaanotettu onnistuneesti. Tiimimme ottaa sinuun yhteyttä 24 tunnin kuluessa.",
+    "errorMessage": "Virhe hakemuksesi lähettämisessä. Yritä uudelleen.",
+    "months": "kuukautta",
+    "years": "vuotta"
+  },
+  "contact": {
+    "title": "Ota Meihin Yhteyttä",
+    "subtitle": "Olemme valmiita vastaamaan kaikkiin kysymyksiisi",
+    "contactInfo": {
+      "title": "Yhteystiedot",
+      "address": "Helsinki, Suomi",
+      "email": "allianzfinanzas0@gmail.com",
+    },
+    "contactForm": {
+      "title": "Yhteydenottolomake",
+      "name": "Sinun Nimesi",
+      "email": "Sinun Sähköpostisi",
+      "subject": "Aihe",
+      "message": "Sinun Viestisi",
+      "submit": "Lähetä",
+      "successMessage": "Viestisi on lähetetty onnistuneesti. Vastaamme sinulle 24 tunnin kuluessa.",
+      "errorMessage": "Virhe tapahtui. Yritä uudelleen."
+    }
+  }
+}

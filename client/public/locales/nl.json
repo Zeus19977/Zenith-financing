@@ -1,0 +1,206 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Uw betrouwbare partner voor al uw financiële projecten",
+    "language": "Nederlands"
+  },
+  "header": {
+    "home": "Startpagina",
+    "about": "Over Ons",
+    "services": "Diensten",
+    "contact": "Contact",
+    "applyButton": "Nu Aanvragen",
+    "selectLanguage": "Selecteer Taal"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinki, Finland",
+    "email": "allianzfinanzas0@gmail.com",
+    "phone": "+358 45 73966157",
+    "whatsapp": "WhatsApp",
+    "followUs": "Volg Ons",
+    "quickLinks": "Snelkoppelingen",
+    "legal": "Juridisch",
+    "privacy": "Privacybeleid",
+    "terms": "Servicevoorwaarden",
+    "copyright": "© 2024 Zenith Finance. Alle rechten voorbehouden."
+  },
+  "home": {
+    "hero": {
+      "title": "Uw betrouwbare partner voor al uw financiële projecten",
+      "subtitle": "Krijg toegang tot flexibele en snelle financieringsoplossingen die op uw behoeften zijn afgestemd",
+      "cta": "Nu Aanvragen"
+    },
+    "services": {
+      "title": "Onze Diensten",
+      "subtitle": "Volledige financieringsoplossingen voor al uw projecten",
+      "personalLoan": {
+        "title": "Persoonlijke Lening",
+        "description": "Krijg tot €500.000 voor uw persoonlijke projecten met concurrerende rentetarieven en een vereenvoudigd proces."
+      },
+      "projectFinancing": {
+        "title": "Projectfinanciering",
+        "description": "Financier uw ondernemings-, onroerend goed- of commerciële projecten met onze expertise en partners."
+      },
+      "nonRefundable": {
+        "title": "Niet-Terugbetaalbare Financiering",
+        "description": "Krijg toegang tot subsidies en financiële hulp om uw bedrijf te ontwikkelen zonder terugbetalingsverplichting."
+      },
+      "businessSupport": {
+        "title": "Bedrijfsondersteuning",
+        "description": "Gespecialiseerde financieringsoplossingen voor MKB's en startups met persoonlijke ondersteuning."
+      }
+    },
+    "stats": {
+      "title": "Onze Sleutelcijfers",
+      "clients": "+5000 tevreden klanten",
+      "experience": "+10 jaar ervaring",
+      "approval": "98% goedkeuringspercentage",
+      "countries": "Aanwezig in 15 landen"
+    },
+    "testimonials": {
+      "title": "Testimonials van Onze Klanten",
+      "subtitle": "Ontdek hoe we onze klanten hebben geholpen hun projecten te realiseren",
+      "testimonial1": {
+        "name": "Marie Dupont",
+        "country": "Frankrijk",
+        "amount": "€50,000",
+        "text": "Zenith Finance stelde me in staat mijn bedrijfsoprichtingsproject in slechts 2 weken te financieren. Zeer professioneel en responsief team!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Spanje",
+        "amount": "€75,000",
+        "text": "Uitstekende service. Het team van Zenith Finance was zeer attent en hielp me de financiering te krijgen die ik voor mijn bedrijf nodig had."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Duitsland",
+        "amount": "€120,000",
+        "text": "Zeer professioneel en betrouwbaar. Zenith Finance hielp me mijn onroerendgoedproject te financieren. Ik kan ze alleen aanbevelen!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "België",
+        "amount": "€35,000",
+        "text": "Snelle en efficiënte service. Ik ontving mijn financiering in minder dan een maand. Zeer tevreden met mijn ervaring met Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italië",
+        "amount": "€250,000",
+        "text": "Zenith Finance bood me de beste financieringsvoorwaarden. Ik ben zeer tevreden met de service en professionaliteit van het team."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Nederland",
+        "amount": "€500,000",
+        "text": "Zeer bevredigend. Zenith Finance bood me de financiering die ik nodig had voor mijn grote project. Zeer aanbevolen!"
+      }
+    },
+    "howItWorks": {
+      "title": "Hoe Het Werkt",
+      "subtitle": "Een eenvoudig en transparant proces in 3 stappen",
+      "step1": {
+        "title": "Vul Het Formulier In",
+        "description": "Vul ons aanvraagformulier in enkele minuten in met uw persoonlijke gegevens en projectdetails."
+      },
+      "step2": {
+        "title": "Aanvraagbeoordeling",
+        "description": "Ons team van experts beoordeelt uw aanvraag en neemt binnen 24 uur contact met u op met een antwoord."
+      },
+      "step3": {
+        "title": "Ontvang De Geldmiddelen",
+        "description": "Eenmaal goedgekeurd, worden de geldmiddelen binnen 2-3 werkdagen rechtstreeks naar uw rekening overgemaakt."
+      }
+    },
+    "partners": {
+      "title": "Onze Bankpartners",
+      "subtitle": "We werken samen met de beste financiële instellingen"
+    }
+  },
+  "about": {
+    "title": "Over Zenith Finance",
+    "introduction": "Zenith Finance is een toonaangevend financieringsbedrijf in Europa, gespecialiseerd in het bieden van innovatieve en toegankelijke kredietoplossingen.",
+    "headquarters": "Hoofdkantoor: Helsinki, Finland",
+    "mission": {
+      "title": "Onze Missie",
+      "description": "Financiering voor iedereen toegankelijk maken door snelle, transparante en op elke behoefte afgestemde oplossingen aan te bieden."
+    },
+    "vision": {
+      "title": "Onze Visie",
+      "description": "Europas betrouwbare financiële partner worden, erkend voor onze excellentie, innovatie en toewijding aan onze klanten."
+    },
+    "values": {
+      "title": "Onze Waarden",
+      "transparency": "Transparantie: We communiceren duidelijk over alle voorwaarden.",
+      "innovation": "Innovatie: We gebruiken de nieuwste technologie om onze diensten te verbeteren.",
+      "trust": "Vertrouwen: Het vertrouwen van onze klanten is ons grootste bezit.",
+      "excellence": "Excellentie: We zetten ons in voor het leveren van superieure kwaliteitsservice."
+    },
+    "team": {
+      "title": "Ons Leidinggevend Team",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Chief Executive Officer",
+        "bio": "Met meer dan 15 jaar ervaring in de financiële sector leidt Thomas Zenith Finance naar innovatie en groei."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Chief Financial Officer",
+        "bio": "Expert in financieel management en strategie, Elena zorgt voor soliditeit en stabiliteit van onze operaties."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Chief Operating Officer",
+        "bio": "Specialist in procesoptimalisatie, Lars zorgt voor efficiëntie en kwaliteit van onze diensten."
+      }
+    }
+  },
+  "form": {
+    "title": "Financieringsaanvraag",
+    "subtitle": "Vul het onderstaande formulier in om uw aanvraag in te dienen",
+    "fullName": "Volledige Naam",
+    "email": "E-mailadres",
+    "phone": "Telefoonnummer",
+    "countryCode": "Landcode",
+    "country": "Woonland",
+    "address": "Adres",
+    "profession": "Beroep / Bezigheid",
+    "monthlyIncome": "Maandelijks Inkomen (€)",
+    "desiredAmount": "Gewenst Bedrag (€)",
+    "repaymentDuration": "Gewenste Terugbetalingsduur",
+    "financingType": "Type Financiering",
+    "personalLoan": "Persoonlijke Lening",
+    "projectFinancing": "Projectfinanciering",
+    "nonRefundable": "Niet-Terugbetaalbare Financiering",
+    "other": "Overig",
+    "projectDescription": "Reden / Projectbeschrijving",
+    "submit": "Aanvraag Indienen",
+    "successMessage": "Uw aanvraag is succesvol ontvangen. Ons team zal u binnen 24 uur contacteren.",
+    "errorMessage": "Er is een fout opgetreden bij het verzenden van uw aanvraag. Probeer het alstublieft opnieuw.",
+    "months": "maanden",
+    "years": "jaren"
+  },
+  "contact": {
+    "title": "Neem Contact Met Ons Op",
+    "subtitle": "We zijn hier om al uw vragen te beantwoorden",
+    "contactInfo": {
+      "title": "Contactgegevens",
+      "address": "Helsinki, Finland",
+      "email": "allianzfinanzas0@gmail.com",
+      "phone": "+358 45 73966157",
+      "whatsapp": "Beschikbaar op WhatsApp"
+    },
+    "contactForm": {
+      "title": "Contactformulier",
+      "name": "Uw Naam",
+      "email": "Uw E-mail",
+      "subject": "Onderwerp",
+      "message": "Uw Bericht",
+      "submit": "Verzenden",
+      "successMessage": "Uw bericht is succesvol verzonden. We zullen u binnen 24 uur antwoorden.",
+      "errorMessage": "Er is een fout opgetreden. Probeer het alstublieft opnieuw."
+    }
+  }
+}

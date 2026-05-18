@@ -1,0 +1,202 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Seu parceiro de confiança para todos os seus projetos financeiros",
+    "language": "Português"
+  },
+  "header": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "contact": "Contato",
+    "applyButton": "Fazer uma solicitação",
+    "selectLanguage": "Selecionar idioma"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinque, Finlândia",
+    "email": "allianzfinanzas0@gmail.com",
+    "followUs": "Siga-nos",
+    "quickLinks": "Links Rápidos",
+    "legal": "Aviso Legal",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos e Condições",
+    "copyright": "© 2024 Zenith Finance. Todos os direitos reservados."
+  },
+  "home": {
+    "hero": {
+      "title": "Seu parceiro de confiança para todos os seus projetos financeiros",
+      "subtitle": "Acesso a soluções de financiamento flexíveis e rápidas adaptadas às suas necessidades",
+      "cta": "Fazer uma solicitação agora"
+    },
+    "services": {
+      "title": "Nossos Serviços",
+      "subtitle": "Soluções financeiras completas para todos os seus projetos",
+      "personalLoan": {
+        "title": "Empréstimo Pessoal",
+        "description": "Obtenha até €500.000 para realizar seus projetos pessoais com taxas competitivas e processo simplificado."
+      },
+      "projectFinancing": {
+        "title": "Financiamento de Projetos",
+        "description": "Financie seus projetos empreendedores, imobiliários ou comerciais com nossa experiência e parceiros."
+      },
+      "nonRefundable": {
+        "title": "Financiamento Não Reembolsável",
+        "description": "Acesso a subsídios e ajuda financeira para desenvolver sua atividade sem obrigação de reembolso."
+      },
+      "businessSupport": {
+        "title": "Apoio Empresarial",
+        "description": "Soluções de financiamento especializadas para PMEs e startups com acompanhamento personalizado."
+      }
+    },
+    "stats": {
+      "title": "Nossos Números-Chave",
+      "clients": "+5000 clientes satisfeitos",
+      "experience": "+10 anos de experiência",
+      "approval": "98% de taxa de aprovação",
+      "countries": "Presença em 15 países"
+    },
+    "testimonials": {
+      "title": "Depoimentos de Nossos Clientes",
+      "subtitle": "Descubra como ajudamos nossos clientes a realizarem seus projetos",
+      "testimonial1": {
+        "name": "Maria Silva",
+        "country": "Portugal",
+        "amount": "€50,000",
+        "text": "Zenith Finance me permitiu financiar meu projeto de criação de empresa em apenas 2 semanas. Equipe muito profissional e responsiva!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Espanha",
+        "amount": "€75,000",
+        "text": "Excelente serviço. A equipe da Zenith Finance foi muito atenta e me ajudou a obter o financiamento que precisava para meu negócio."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Alemanha",
+        "amount": "€120,000",
+        "text": "Muito profissional e confiável. Zenith Finance me ajudou a financiar meu projeto imobiliário. Posso apenas recomendá-los!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Bélgica",
+        "amount": "€35,000",
+        "text": "Serviço rápido e eficiente. Recebi meu financiamento em menos de um mês. Muito satisfeito com minha experiência com Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Itália",
+        "amount": "€250,000",
+        "text": "Zenith Finance me ofereceu as melhores condições de financiamento. Estou muito satisfeito com o serviço e a profissionalismo da equipe."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Países Baixos",
+        "amount": "€500,000",
+        "text": "Muito satisfatório. Zenith Finance me ofereceu o financiamento que precisava para meu grande projeto. Recomendado!"
+      }
+    },
+    "howItWorks": {
+      "title": "Como Funciona",
+      "subtitle": "Um processo simples e transparente em 3 etapas",
+      "step1": {
+        "title": "Preencha o Formulário",
+        "description": "Complete nosso formulário de solicitação em poucos minutos com suas informações pessoais e seu projeto."
+      },
+      "step2": {
+        "title": "Validação de Seu Dossiê",
+        "description": "Nossa equipe de especialistas examina seu dossiê e o contacta em 24 horas com uma resposta."
+      },
+      "step3": {
+        "title": "Recebimento dos Fundos",
+        "description": "Uma vez aprovado, os fundos são transferidos diretamente para sua conta em 2-3 dias úteis."
+      }
+    },
+    "partners": {
+      "title": "Nossos Parceiros Bancários",
+      "subtitle": "Trabalhamos com as melhores instituições financeiras"
+    }
+  },
+  "about": {
+    "title": "Sobre Zenith Finance",
+    "introduction": "Zenith Finance é uma empresa de financiamento líder na Europa, especializada em fornecer soluções de crédito inovadoras e acessíveis.",
+    "headquarters": "Sede: Helsinque, Finlândia",
+    "mission": {
+      "title": "Nossa Missão",
+      "description": "Tornar o financiamento acessível a todos, oferecendo soluções rápidas, transparentes e adaptadas a cada necessidade."
+    },
+    "vision": {
+      "title": "Nossa Visão",
+      "description": "Ser o parceiro financeiro de confiança na Europa, reconhecido por excelência, inovação e compromisso com nossos clientes."
+    },
+    "values": {
+      "title": "Nossos Valores",
+      "transparency": "Transparência: Comunicamos claramente sobre todos os termos e condições.",
+      "innovation": "Inovação: Usamos as tecnologias mais recentes para melhorar nossos serviços.",
+      "trust": "Confiança: A confiança de nossos clientes é nosso maior ativo.",
+      "excellence": "Excelência: Nos comprometemos a fornecer serviço de qualidade superior."
+    },
+    "team": {
+      "title": "Nossa Equipe de Liderança",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Diretor Executivo",
+        "bio": "Com mais de 15 anos de experiência no setor financeiro, Thomas lidera Zenith Finance rumo à inovação e crescimento."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Diretora Financeira",
+        "bio": "Especialista em gestão financeira e estratégia, Elena garante a solidez e estabilidade de nossas operações."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Diretor de Operações",
+        "bio": "Especialista em otimização de processos, Lars garante a eficiência e qualidade de nossos serviços."
+      }
+    }
+  },
+  "form": {
+    "title": "Solicitação de Financiamento",
+    "subtitle": "Preencha o formulário abaixo para enviar sua solicitação",
+    "fullName": "Nome Completo",
+    "email": "Endereço de E-mail",
+    "phone": "Número de Telefone",
+    "countryCode": "Código do País",
+    "country": "País de Residência",
+    "address": "Endereço",
+    "profession": "Profissão / Ocupação",
+    "monthlyIncome": "Renda Mensal (€)",
+    "desiredAmount": "Valor Desejado (€)",
+    "repaymentDuration": "Prazo de Reembolso Desejado",
+    "financingType": "Tipo de Financiamento",
+    "personalLoan": "Empréstimo Pessoal",
+    "projectFinancing": "Financiamento de Projetos",
+    "nonRefundable": "Financiamento Não Reembolsável",
+    "other": "Outro",
+    "projectDescription": "Motivo / Descrição do Projeto",
+    "submit": "Enviar Minha Solicitação",
+    "successMessage": "Sua solicitação foi recebida com sucesso. Nossa equipe o contactará em 24 horas.",
+    "errorMessage": "Ocorreu um erro ao enviar sua solicitação. Por favor, tente novamente.",
+    "months": "meses",
+    "years": "anos"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Estamos aqui para responder a todas as suas perguntas",
+    "contactInfo": {
+      "title": "Informações de Contato",
+      "address": "Helsinque, Finlândia",
+      "email": "allianzfinanzas0@gmail.com",
+    },
+    "contactForm": {
+      "title": "Formulário de Contato",
+      "name": "Seu Nome",
+      "email": "Seu E-mail",
+      "subject": "Assunto",
+      "message": "Sua Mensagem",
+      "submit": "Enviar",
+      "successMessage": "Sua mensagem foi enviada com sucesso. Responderemos em 24 horas.",
+      "errorMessage": "Ocorreu um erro. Por favor, tente novamente."
+    }
+  }
+}

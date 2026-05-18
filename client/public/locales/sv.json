@@ -1,0 +1,202 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Din pålitliga partner för alla dina finansiella projekt",
+    "language": "Svenska"
+  },
+  "header": {
+    "home": "Hem",
+    "about": "Om",
+    "services": "Tjänster",
+    "contact": "Kontakt",
+    "applyButton": "Gör en ansökan",
+    "selectLanguage": "Välj språk"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsingfors, Finland",
+    "email": "allianzfinanzas0@gmail.com",
+    "followUs": "Följ oss",
+    "quickLinks": "Snabblänkar",
+    "legal": "Juridisk anmärkning",
+    "privacy": "Integritetspolicy",
+    "terms": "Villkor",
+    "copyright": "© 2024 Zenith Finance. Alla rättigheter förbehållna."
+  },
+  "home": {
+    "hero": {
+      "title": "Din pålitliga partner för alla dina finansiella projekt",
+      "subtitle": "Tillgång till flexibel och snabb finansiering anpassad efter dina behov",
+      "cta": "Gör en ansökan nu"
+    },
+    "services": {
+      "title": "Våra Tjänster",
+      "subtitle": "Kompletta finansiella lösningar för alla dina projekt",
+      "personalLoan": {
+        "title": "Personligt Lån",
+        "description": "Få upp till 500 000€ för att genomföra dina personliga projekt med konkurrenskraftiga räntor och förenklad process."
+      },
+      "projectFinancing": {
+        "title": "Projektfinansiering",
+        "description": "Finansiera dina företagarskap, fastighets- eller kommersiella projekt med vår expertis och partners."
+      },
+      "nonRefundable": {
+        "title": "Icke-återbetalningsbar Finansiering",
+        "description": "Tillgång till bidrag och ekonomiskt stöd för att utveckla din verksamhet utan återbetalningsplikt."
+      },
+      "businessSupport": {
+        "title": "Företagsstöd",
+        "description": "Specialiserad finansiering för små och medelstora företag och startups med personlig assistans."
+      }
+    },
+    "stats": {
+      "title": "Våra Nyckeltal",
+      "clients": "+5000 nöjda kunder",
+      "experience": "+10 års erfarenhet",
+      "approval": "98% godkännandetal",
+      "countries": "Närvaro i 15 länder"
+    },
+    "testimonials": {
+      "title": "Våra Kunders Vittnesmål",
+      "subtitle": "Upptäck hur vi hjälpt våra kunder att genomföra sina projekt",
+      "testimonial1": {
+        "name": "Maria Andersson",
+        "country": "Sverige",
+        "amount": "€50,000",
+        "text": "Zenith Finance gjorde det möjligt för mig att finansiera mitt företagsstartupp på bara två veckor. Mycket professionell och responsiv team!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Spanien",
+        "amount": "€75,000",
+        "text": "Utmärkt service. Zenith Finance-teamet var mycket uppmärksamt och hjälpte mig att få den finansiering jag behövde för min verksamhet."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Tyskland",
+        "amount": "€120,000",
+        "text": "Mycket professionell och pålitlig. Zenith Finance hjälpte mig att finansiera mitt fastighetsprojekt. Jag kan bara rekommendera dem!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Belgien",
+        "amount": "€35,000",
+        "text": "Snabb och effektiv service. Jag fick min finansiering på mindre än en månad. Mycket nöjd med min erfarenhet av Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italien",
+        "amount": "€250,000",
+        "text": "Zenith Finance erbjöd mig de bästa finansieringsvillkoren. Jag är mycket nöjd med servicen och teamets professionalism."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Nederländerna",
+        "amount": "€500,000",
+        "text": "Mycket tillfredsställande. Zenith Finance erbjöd mig den finansiering jag behövde för mitt stora projekt. Rekommenderat!"
+      }
+    },
+    "howItWorks": {
+      "title": "Hur Det Fungerar",
+      "subtitle": "En enkel och transparent process i 3 steg",
+      "step1": {
+        "title": "Fyll i Formuläret",
+        "description": "Fyll i vår ansökningsformulär på några minuter med dina personliga uppgifter och ditt projekt."
+      },
+      "step2": {
+        "title": "Validering av Din Ansökan",
+        "description": "Vårt expertteam granskar din ansökan och kontaktar dig inom 24 timmar med ett svar."
+      },
+      "step3": {
+        "title": "Mottagning av Medel",
+        "description": "Efter godkännande överförs medlen direkt till ditt konto inom 2-3 arbetsdagar."
+      }
+    },
+    "partners": {
+      "title": "Våra Bankpartner",
+      "subtitle": "Vi arbetar med de bästa finansiella institutionerna"
+    }
+  },
+  "about": {
+    "title": "Om Zenith Finance",
+    "introduction": "Zenith Finance är ett ledande finansieringsföretag i Europa, specialiserat på att tillhandahålla innovativa och tillgängliga kreditlösningar.",
+    "headquarters": "Huvudkontor: Helsingfors, Finland",
+    "mission": {
+      "title": "Vår Mission",
+      "description": "Göra finansiering tillgänglig för alla genom att erbjuda snabba, transparenta och anpassade lösningar för varje behov."
+    },
+    "vision": {
+      "title": "Vår Vision",
+      "description": "Vara Europas pålitliga finansiella partner, känd för excellens, innovation och engagemang gentemot våra kunder."
+    },
+    "values": {
+      "title": "Våra Värden",
+      "transparency": "Transparens: Vi kommunicerar tydligt om alla villkor och betingelser.",
+      "innovation": "Innovation: Vi använder den senaste tekniken för att förbättra våra tjänster.",
+      "trust": "Förtroende: Våra kunders förtroende är vår största tillgång.",
+      "excellence": "Excellens: Vi är engagerade i att tillhandahålla service av högsta kvalitet."
+    },
+    "team": {
+      "title": "Vår Ledningsgrupp",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Verkställande Direktör",
+        "bio": "Med över 15 års erfarenhet från finanssektorn leder Thomas Zenith Finance mot innovation och tillväxt."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Finansdirektör",
+        "bio": "Expert på finansiell ledning och strategi, Elena säkerställer styrka och stabilitet i vår verksamhet."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Operativ Direktör",
+        "bio": "Specialist på processoptimering, Lars garanterar effektivitet och kvalitet i våra tjänster."
+      }
+    }
+  },
+  "form": {
+    "title": "Finansieringsansökan",
+    "subtitle": "Fyll i formuläret nedan för att skicka in din ansökan",
+    "fullName": "Fullständigt Namn",
+    "email": "E-postadress",
+    "phone": "Telefonnummer",
+    "countryCode": "Landskod",
+    "country": "Bosättningsland",
+    "address": "Adress",
+    "profession": "Yrke / Sysselsättning",
+    "monthlyIncome": "Månadsinkomst (€)",
+    "desiredAmount": "Önskad Belopp (€)",
+    "repaymentDuration": "Önskad Återbetalningsperiod",
+    "financingType": "Finansieringstyp",
+    "personalLoan": "Personligt Lån",
+    "projectFinancing": "Projektfinansiering",
+    "nonRefundable": "Icke-återbetalningsbar Finansiering",
+    "other": "Annat",
+    "projectDescription": "Anledning / Projektbeskrivning",
+    "submit": "Skicka Min Ansökan",
+    "successMessage": "Din ansökan har mottagits. Vårt team kontaktar dig inom 24 timmar.",
+    "errorMessage": "Ett fel uppstod när din ansökan skickades. Försök igen.",
+    "months": "månader",
+    "years": "år"
+  },
+  "contact": {
+    "title": "Kontakta Oss",
+    "subtitle": "Vi är här för att svara på alla dina frågor",
+    "contactInfo": {
+      "title": "Kontaktinformation",
+      "address": "Helsingfors, Finland",
+      "email": "allianzfinanzas0@gmail.com",
+    },
+    "contactForm": {
+      "title": "Kontaktformulär",
+      "name": "Ditt Namn",
+      "email": "Din E-post",
+      "subject": "Ämne",
+      "message": "Ditt Meddelande",
+      "submit": "Skicka",
+      "successMessage": "Ditt meddelande har skickats. Vi svarar inom 24 timmar.",
+      "errorMessage": "Ett fel uppstod. Försök igen."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="white"/>
+  <polygon points="100,40 140,120 60,120" fill="#C9A84C"/>
+  <polygon points="70,80 85,120 55,120" fill="#0D2B5E"/>
+  <polygon points="130,80 115,120 145,120" fill="#0D2B5E"/>
+  <text x="100" y="110" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0D2B5E" text-anchor="middle">ZF</text>
+</svg>

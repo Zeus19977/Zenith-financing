@@ -1,0 +1,202 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Partenerul tău de încredere pentru toate proiectele tale financiare",
+    "language": "Română"
+  },
+  "header": {
+    "home": "Acasă",
+    "about": "Despre",
+    "services": "Servicii",
+    "contact": "Contact",
+    "applyButton": "Fă o cerere",
+    "selectLanguage": "Selectează limba"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinki, Finlanda",
+    "email": "allianzfinanzas0@gmail.com",
+    "followUs": "Urmărește-ne",
+    "quickLinks": "Linkuri Rapide",
+    "legal": "Notă Legală",
+    "privacy": "Politica de Confidențialitate",
+    "terms": "Termeni și Condiții",
+    "copyright": "© 2024 Zenith Finance. Toate drepturile rezervate."
+  },
+  "home": {
+    "hero": {
+      "title": "Partenerul tău de încredere pentru toate proiectele tale financiare",
+      "subtitle": "Acces la soluții de finanțare flexibile și rapide adaptate nevoilor tale",
+      "cta": "Fă o cerere acum"
+    },
+    "services": {
+      "title": "Serviciile Noastre",
+      "subtitle": "Soluții financiare complete pentru toate proiectele tale",
+      "personalLoan": {
+        "title": "Împrumut Personal",
+        "description": "Obțineți până la 500.000€ pentru a-și realiza proiectele personale cu rate competitive și proces simplificat."
+      },
+      "projectFinancing": {
+        "title": "Finanțarea Proiectelor",
+        "description": "Finanțați-vă proiectele antreprenoriale, imobiliare sau comerciale cu expertiza și partenerii noștri."
+      },
+      "nonRefundable": {
+        "title": "Finanțare Nerambursabilă",
+        "description": "Acces la subvenții și ajutor financiar pentru a-ți dezvolta activitatea fără obligație de rambursare."
+      },
+      "businessSupport": {
+        "title": "Sprijin pentru Afaceri",
+        "description": "Soluții de finanțare specializate pentru IMM-uri și startup-uri cu asistență personalizată."
+      }
+    },
+    "stats": {
+      "title": "Cifrele Noastre Cheie",
+      "clients": "+5000 clienți satisfăcuți",
+      "experience": "+10 ani de experiență",
+      "approval": "98% rata de aprobare",
+      "countries": "Prezență în 15 țări"
+    },
+    "testimonials": {
+      "title": "Mărturii ale Clienților Noștri",
+      "subtitle": "Descoperă cum am ajutat clienții noștri să-și realizeze proiectele",
+      "testimonial1": {
+        "name": "Maria Popescu",
+        "country": "România",
+        "amount": "€50,000",
+        "text": "Zenith Finance m-a ajutat să finanțez proiectul meu de creare a unei afaceri în doar 2 săptămâni. Echipă foarte profesională și receptivă!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Spania",
+        "amount": "€75,000",
+        "text": "Excelent serviciu. Echipa Zenith Finance a fost foarte atentă și m-a ajutat să obțin finanțarea de care aveam nevoie pentru afacerea mea."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Germania",
+        "amount": "€120,000",
+        "text": "Foarte profesional și de încredere. Zenith Finance m-a ajutat să finanțez proiectul meu imobiliar. Pot doar să-i recomand!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Belgia",
+        "amount": "€35,000",
+        "text": "Serviciu rapid și eficient. Am primit finanțarea mea în mai puțin de o lună. Foarte mulțumit de experiența mea cu Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italia",
+        "amount": "€250,000",
+        "text": "Zenith Finance mi-a oferit cele mai bune condiții de finanțare. Sunt foarte mulțumit de serviciu și profesionalismul echipei."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Olanda",
+        "amount": "€500,000",
+        "text": "Foarte satisfăcut. Zenith Finance m-a oferit finanțarea de care aveam nevoie pentru proiectul meu mare. Recomand!"
+      }
+    },
+    "howItWorks": {
+      "title": "Cum Funcționează",
+      "subtitle": "Un proces simplu și transparent în 3 pași",
+      "step1": {
+        "title": "Completează Formularul",
+        "description": "Completează formularul nostru de cerere în câteva minute cu informațiile tale personale și proiectul tău."
+      },
+      "step2": {
+        "title": "Validarea Dosarului Tău",
+        "description": "Echipa noastră de experți examinează dosarul tău și te contactează în 24 de ore cu un răspuns."
+      },
+      "step3": {
+        "title": "Primirea Fondurilor",
+        "description": "După aprobare, fondurile sunt transferate direct în contul tău în 2-3 zile lucrătoare."
+      }
+    },
+    "partners": {
+      "title": "Partenerii Noștri Bancari",
+      "subtitle": "Lucrăm cu cele mai bune instituții financiare"
+    }
+  },
+  "about": {
+    "title": "Despre Zenith Finance",
+    "introduction": "Zenith Finance este o companie de finanțare lider în Europa, specializată în furnizarea de soluții de credit inovatoare și accesibile.",
+    "headquarters": "Sediu Social: Helsinki, Finlanda",
+    "mission": {
+      "title": "Misiunea Noastră",
+      "description": "Să facem finanțarea accesibilă pentru toți prin oferirea de soluții rapide, transparente și adaptate fiecărei nevoi."
+    },
+    "vision": {
+      "title": "Viziunea Noastră",
+      "description": "Să devenim partenerul financiar de încredere în Europa, recunoscut pentru excelență, inovație și angajament față de clienți."
+    },
+    "values": {
+      "title": "Valorile Noastre",
+      "transparency": "Transparență: Comunicăm clar despre toți termenii și condițiile.",
+      "innovation": "Inovație: Folosim cele mai recente tehnologii pentru a-și îmbunătăți serviciile.",
+      "trust": "Încredere: Încrederea clienților noștri este cel mai mare atu al nostru.",
+      "excellence": "Excelență: Suntem angajați să furnizez servicii de cea mai bună calitate."
+    },
+    "team": {
+      "title": "Echipa Noastră de Conducere",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Director General",
+        "bio": "Cu peste 15 ani de experiență în sectorul financiar, Thomas conduce Zenith Finance către inovație și creștere."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Director Financiar",
+        "bio": "Expert în management financiar și strategie, Elena asigură soliditatea și stabilitatea operațiunilor noastre."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Director Operațional",
+        "bio": "Specialist în optimizarea proceselor, Lars garantează eficiența și calitatea serviciilor noastre."
+      }
+    }
+  },
+  "form": {
+    "title": "Cerere de Finanțare",
+    "subtitle": "Completează formularul de mai jos pentru a-ți trimite cererea",
+    "fullName": "Nume Complet",
+    "email": "Adresă de E-mail",
+    "phone": "Număr de Telefon",
+    "countryCode": "Cod Țară",
+    "country": "Țara de Reședință",
+    "address": "Adresă",
+    "profession": "Profesie / Ocupație",
+    "monthlyIncome": "Venit Lunar (€)",
+    "desiredAmount": "Suma Dorită (€)",
+    "repaymentDuration": "Perioada de Rambursare Dorită",
+    "financingType": "Tip de Finanțare",
+    "personalLoan": "Împrumut Personal",
+    "projectFinancing": "Finanțarea Proiectelor",
+    "nonRefundable": "Finanțare Nerambursabilă",
+    "other": "Altele",
+    "projectDescription": "Motiv / Descrierea Proiectului",
+    "submit": "Trimite Cererea Mea",
+    "successMessage": "Cererea ta a fost primită cu succes. Echipa noastră te va contacta în 24 de ore.",
+    "errorMessage": "A apărut o eroare la trimiterea cererii tale. Te rog încearcă din nou.",
+    "months": "luni",
+    "years": "ani"
+  },
+  "contact": {
+    "title": "Contactează-ne",
+    "subtitle": "Suntem aici pentru a răspunde la toate întrebările tale",
+    "contactInfo": {
+      "title": "Informații de Contact",
+      "address": "Helsinki, Finlanda",
+      "email": "allianzfinanzas0@gmail.com",
+    },
+    "contactForm": {
+      "title": "Formular de Contact",
+      "name": "Numele Tău",
+      "email": "E-mailul Tău",
+      "subject": "Subiect",
+      "message": "Mesajul Tău",
+      "submit": "Trimite",
+      "successMessage": "Mesajul tău a fost trimis cu succes. Îți vom răspunde în 24 de ore.",
+      "errorMessage": "A apărut o eroare. Te rog încearcă din nou."
+    }
+  }
+}

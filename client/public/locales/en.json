@@ -1,0 +1,206 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Your trusted partner for all your financial projects",
+    "language": "English"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "applyButton": "Apply Now",
+    "selectLanguage": "Select Language"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinki, Finland",
+    "email": "allianzfinanzas0@gmail.com",
+    "phone": "+358 45 73966157",
+    "whatsapp": "WhatsApp",
+    "followUs": "Follow Us",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 Zenith Finance. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Your trusted partner for all your financial projects",
+      "subtitle": "Access flexible and fast financing solutions tailored to your needs",
+      "cta": "Apply Now"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Complete financial solutions for all your projects",
+      "personalLoan": {
+        "title": "Personal Loan",
+        "description": "Get up to €500,000 for your personal projects with competitive rates and a simplified process."
+      },
+      "projectFinancing": {
+        "title": "Project Financing",
+        "description": "Finance your entrepreneurial, real estate or commercial projects with our expertise and partners."
+      },
+      "nonRefundable": {
+        "title": "Non-Refundable Financing",
+        "description": "Access grants and financial aid to develop your business without repayment obligation."
+      },
+      "businessSupport": {
+        "title": "Business Support",
+        "description": "Specialized financing solutions for SMEs and startups with personalized support."
+      }
+    },
+    "stats": {
+      "title": "Our Key Figures",
+      "clients": "+5000 satisfied clients",
+      "experience": "+10 years of experience",
+      "approval": "98% approval rate",
+      "countries": "Presence in 15 countries"
+    },
+    "testimonials": {
+      "title": "Our Client Testimonials",
+      "subtitle": "Discover how we helped our clients achieve their projects",
+      "testimonial1": {
+        "name": "Marie Dupont",
+        "country": "France",
+        "amount": "€50,000",
+        "text": "Zenith Finance allowed me to finance my business creation project in just 2 weeks. Very professional and responsive team!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Spain",
+        "amount": "€75,000",
+        "text": "Excellent service. The Zenith Finance team was very attentive and helped me get the financing I needed for my business."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Germany",
+        "amount": "€120,000",
+        "text": "Very professional and reliable. Zenith Finance helped me finance my real estate project. I can only recommend them!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Belgium",
+        "amount": "€35,000",
+        "text": "Fast and efficient service. I received my financing in less than a month. Very satisfied with my experience with Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italy",
+        "amount": "€250,000",
+        "text": "Zenith Finance offered me the best financing conditions. I am very satisfied with the service and professionalism of the team."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Netherlands",
+        "amount": "€500,000",
+        "text": "Very satisfying. Zenith Finance provided me with the financing I needed for my large project. Highly recommended!"
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "A simple and transparent process in 3 steps",
+      "step1": {
+        "title": "Fill Out the Form",
+        "description": "Complete our application form in a few minutes with your personal information and project details."
+      },
+      "step2": {
+        "title": "Application Review",
+        "description": "Our team of experts reviews your application and contacts you within 24 hours with a response."
+      },
+      "step3": {
+        "title": "Receive Funds",
+        "description": "Once approved, funds are transferred directly to your account within 2-3 business days."
+      }
+    },
+    "partners": {
+      "title": "Our Banking Partners",
+      "subtitle": "We work with the best financial institutions"
+    }
+  },
+  "about": {
+    "title": "About Zenith Finance",
+    "introduction": "Zenith Finance is a leading financing company in Europe, specializing in providing innovative and accessible credit solutions.",
+    "headquarters": "Headquarters: Helsinki, Finland",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Make financing accessible to everyone by offering fast, transparent solutions tailored to each need."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Become Europe's trusted financial partner, recognized for our excellence, innovation, and commitment to our clients."
+    },
+    "values": {
+      "title": "Our Values",
+      "transparency": "Transparency: We communicate clearly on all terms and conditions.",
+      "innovation": "Innovation: We use the latest technologies to improve our services.",
+      "trust": "Trust: Our clients' trust is our greatest asset.",
+      "excellence": "Excellence: We are committed to providing superior quality service."
+    },
+    "team": {
+      "title": "Our Leadership Team",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Chief Executive Officer",
+        "bio": "With over 15 years of experience in the financial sector, Thomas leads Zenith Finance towards innovation and growth."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Chief Financial Officer",
+        "bio": "Expert in financial management and strategy, Elena ensures the soundness and stability of our operations."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Chief Operating Officer",
+        "bio": "Specialist in process optimization, Lars ensures the efficiency and quality of our services."
+      }
+    }
+  },
+  "form": {
+    "title": "Financing Application",
+    "subtitle": "Fill out the form below to submit your application",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "countryCode": "Country Code",
+    "country": "Country of Residence",
+    "address": "Address",
+    "profession": "Profession / Occupation",
+    "monthlyIncome": "Monthly Income (€)",
+    "desiredAmount": "Desired Amount (€)",
+    "repaymentDuration": "Desired Repayment Duration",
+    "financingType": "Financing Type",
+    "personalLoan": "Personal Loan",
+    "projectFinancing": "Project Financing",
+    "nonRefundable": "Non-Refundable Financing",
+    "other": "Other",
+    "projectDescription": "Reason / Project Description",
+    "submit": "Submit Application",
+    "successMessage": "Your application has been received successfully. Our team will contact you within 24 hours.",
+    "errorMessage": "An error occurred while sending your application. Please try again.",
+    "months": "months",
+    "years": "years"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to answer all your questions",
+    "contactInfo": {
+      "title": "Contact Information",
+      "address": "Helsinki, Finland",
+      "email": "allianzfinanzas0@gmail.com",
+      "phone": "+358 45 73966157",
+      "whatsapp": "Available on WhatsApp"
+    },
+    "contactForm": {
+      "title": "Contact Form",
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send",
+      "successMessage": "Your message has been sent successfully. We will reply within 24 hours.",
+      "errorMessage": "An error occurred. Please try again."
+    }
+  }
+}
