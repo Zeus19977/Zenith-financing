@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-export type Language = 'fr' | 'en' | 'es' | 'de' | 'nl' | 'it' | 'fi' | 'ro' | 'pt' | 'sv' | 'ru' | 'pl';
+export type Language = 'fr' | 'en' | 'es' | 'de' | 'nl' | 'it' | 'fi' | 'ro' | 'pt' | 'sv' | 'ru' | 'pl' | 'lt' | 'lv' | 'sl' | 'el' | 'no' | 'sk';
 
 interface Translations {
   [key: string]: any;
@@ -13,7 +13,7 @@ export function useI18n() {
 
   useEffect(() => {
     const savedLanguage = localStorage.getItem('language') as Language | null;
-    if (savedLanguage && ['fr', 'en', 'es', 'de', 'nl', 'it', 'fi', 'ro', 'pt', 'sv', 'ru', 'pl'].includes(savedLanguage)) {
+    if (savedLanguage && ['fr', 'en', 'es', 'de', 'nl', 'it', 'fi', 'ro', 'pt', 'sv', 'ru', 'pl', 'lt', 'lv', 'sl', 'el', 'no', 'sk'].includes(savedLanguage)) {
       setLanguage(savedLanguage);
     }
   }, []);

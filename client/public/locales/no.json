@@ -1,0 +1,202 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Din pålitelige partner for alle dine finansielle prosjekter",
+    "language": "Norsk"
+  },
+  "header": {
+    "home": "Hjem",
+    "about": "Om Oss",
+    "services": "Tjenester",
+    "contact": "Kontakt",
+    "applyButton": "Søk nå",
+    "selectLanguage": "Velg språk"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinki, Finland",
+    "email": "allianzfinanzas0@gmail.com",
+    "followUs": "Følg oss",
+    "quickLinks": "Hurtiglenker",
+    "legal": "Juridisk informasjon",
+    "privacy": "Personvernregler",
+    "terms": "Bruksvilkår",
+    "copyright": "© 2024 Zenith Finance. Alle rettigheter reservert."
+  },
+  "home": {
+    "hero": {
+      "title": "Din pålitelige partner for alle dine finansielle prosjekter",
+      "subtitle": "Få tilgang til fleksible og raske finansieringsløsninger tilpasset dine behov",
+      "cta": "Søk nå"
+    },
+    "services": {
+      "title": "Våre Tjenester",
+      "subtitle": "Fullstendige finansielle løsninger for alle dine prosjekter",
+      "personalLoan": {
+        "title": "Personlig Lån",
+        "description": "Få opptil €500,000 for å realisere dine personlige prosjekter med konkurransedyktige renter og en forenklet prosess."
+      },
+      "projectFinancing": {
+        "title": "Prosjektfinansiering",
+        "description": "Finansier dine entreprenør-, eiendoms- eller forretningsprosjekter med vår ekspertise og våre partnere."
+      },
+      "nonRefundable": {
+        "title": "Ikke-refunderbar finansiering",
+        "description": "Få tilgang til tilskudd og økonomisk støtte for å utvikle virksomheten din uten tilbakebetalingsplikt."
+      },
+      "businessSupport": {
+        "title": "Bedriftsstøtte",
+        "description": "Spesialiserte finansieringsløsninger for SMB og startups med personlig oppfølging."
+      }
+    },
+    "stats": {
+      "title": "Våre Nøkkeltall",
+      "clients": "+5000 fornøyde kunder",
+      "experience": "+10 års erfaring",
+      "approval": "98% godkjenningsrate",
+      "countries": "Tilstede i 15 land"
+    },
+    "testimonials": {
+      "title": "Kundevurderinger",
+      "subtitle": "Se hvordan vi har hjulpet våre kunder med å realisere sine prosjekter",
+      "testimonial1": {
+        "name": "Marie Dupont",
+        "country": "Frankrike",
+        "amount": "€50,000",
+        "text": "Zenith Finance gjorde det mulig for meg å finansiere mitt oppstartsprosjekt på bare 2 uker. Veldig profesjonelt og raskt team!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Spania",
+        "amount": "€75,000",
+        "text": "Excelente servicio. El equipo de Zenith Finance fue muy atento y me ayudó a obtener el financiamiento que necesitaba para mi negocio."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Tyskland",
+        "amount": "€120,000",
+        "text": "Sehr professionell und zuverlässig. Zenith Finance hat mir geholfen, mein Immobilienprojekt zu finanzieren. Ich kann sie nur empfehlen!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Belgia",
+        "amount": "€35,000",
+        "text": "Rask og effektiv service. Jeg mottok finansieringen min på under en måned. Veldig fornøyd med min erfaring med Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italia",
+        "amount": "€250,000",
+        "text": "Zenith Finance mi ha offerto le migliori condizioni di finanziamento. Sono molto soddisfatto del servizio e della professionalità del team."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Nederland",
+        "amount": "€500,000",
+        "text": "Zeer bevredigend. Zenith Finance bood mij de financiering die ik nodig had voor mijn grote project. Aanbevolen!"
+      }
+    },
+    "howItWorks": {
+      "title": "Hvordan Det Fungerer",
+      "subtitle": "En enkel og transparent prosess i 3 trinn",
+      "step1": {
+        "title": "Fyll ut skjemaet",
+        "description": "Fullfør vår søknad på noen minutter med dine personlige opplysninger og prosjektinformasjon."
+      },
+      "step2": {
+        "title": "Validering av søknaden din",
+        "description": "Vårt ekspertteam vurderer søknaden din og kontakter deg innen 24 timer med svar."
+      },
+      "step3": {
+        "title": "Motta midlene",
+        "description": "Når godkjent, blir midlene overført direkte til din konto innen 2-3 virkedager."
+      }
+    },
+    "partners": {
+      "title": "Våre Bankpartnere",
+      "subtitle": "Vi samarbeider med de beste finansinstitusjonene"
+    }
+  },
+  "about": {
+    "title": "Om Zenith Finance",
+    "introduction": "Zenith Finance er et ledende finansieringsselskap i Europa, spesialisert på å tilby innovative og tilgjengelige kredittløsninger.",
+    "headquarters": "Hovedkontor: Helsinki, Finland",
+    "mission": {
+      "title": "Vår Misjon",
+      "description": "Gjøre finansiering tilgjengelig for alle ved å tilby raske, transparente og tilpassede løsninger for hvert behov."
+    },
+    "vision": {
+      "title": "Vår Visjon",
+      "description": "Å bli den pålitelige finansielle partneren i Europa, kjent for vår dyktighet, innovasjon og engasjement for kundene våre."
+    },
+    "values": {
+      "title": "Våre Verdier",
+      "transparency": "Åpenhet: Vi kommuniserer klart om alle vilkår og betingelser.",
+      "innovation": "Innovasjon: Vi bruker den nyeste teknologien for å forbedre våre tjenester.",
+      "trust": "Tillitt: Våre kunders tillit er vår største ressurs.",
+      "excellence": "Fortreffelighet: Vi forplikter oss til å levere tjenester av høyeste kvalitet."
+    },
+    "team": {
+      "title": "Vårt Lederteam",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Administrerende Direktør",
+        "bio": "Med over 15 års erfaring i finanssektoren leder Thomas Zenith Finance mot innovasjon og vekst."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Finansdirektør",
+        "bio": "Ekspert på økonomistyring og strategi, Elena sikrer soliditet og stabilitet i våre operasjoner."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Driftsdirektør",
+        "bio": "Spesialist på prosessoptimalisering, Lars garanterer effektivitet og kvalitet i våre tjenester."
+      }
+    }
+  },
+  "form": {
+    "title": "Finansieringssøknad",
+    "subtitle": "Fyll ut skjemaet nedenfor for å sende inn din søknad",
+    "fullName": "Fullt Navn",
+    "email": "E-postadresse",
+    "phone": "Telefonnummer",
+    "countryCode": "Landskode",
+    "country": "Bostedsland",
+    "address": "Adresse",
+    "profession": "Yrke / Stilling",
+    "monthlyIncome": "Månedlig Inntekt (€)",
+    "desiredAmount": "Ønsket Beløp (€)",
+    "repaymentDuration": "Ønsket Nedbetalingstid",
+    "financingType": "Finansieringstype",
+    "personalLoan": "Personlig Lån",
+    "projectFinancing": "Prosjektfinansiering",
+    "nonRefundable": "Ikke-refunderbar finansiering",
+    "other": "Annet",
+    "projectDescription": "Formål / Prosjektbeskrivelse",
+    "submit": "Send inn søknaden min",
+    "successMessage": "Din søknad er mottatt. Vårt team vil kontakte deg innen 24 timer.",
+    "errorMessage": "Det oppstod en feil under innsending av søknaden. Vennligst prøv igjen.",
+    "months": "måneder",
+    "years": "år"
+  },
+  "contact": {
+    "title": "Kontakt Oss",
+    "subtitle": "Vi er her for å svare på alle dine spørsmål",
+    "contactInfo": {
+      "title": "Kontaktinformasjon",
+      "address": "Helsinki, Finland",
+      "email": "allianzfinanzas0@gmail.com"
+    },
+    "contactForm": {
+      "title": "Kontaktskjema",
+      "name": "Ditt Navn",
+      "email": "Din E-post",
+      "subject": "Emne",
+      "message": "Din Melding",
+      "submit": "Send",
+      "successMessage": "Din melding er sendt. Vi svarer innen 24 timer.",
+      "errorMessage": "Det oppstod en feil. Vennligst prøv igjen."
+    }
+  }
+}

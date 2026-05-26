@@ -18,6 +18,12 @@ const LANGUAGES: { code: Language; name: string; flag: string }[] = [
   { code: 'sv', name: 'Svenska', flag: '🇸🇪' },
   { code: 'ru', name: 'Русский', flag: '🇷🇺' },
   { code: 'pl', name: 'Polski', flag: '🇵🇱' },
+  { code: 'lt', name: 'Lietuvių', flag: '🇱🇹' },
+  { code: 'lv', name: 'Latviešu', flag: '🇱🇻' },
+  { code: 'sl', name: 'Slovenščina', flag: '🇸🇮' },
+  { code: 'el', name: 'Ελληνικά', flag: '🇬🇷' },
+  { code: 'no', name: 'Norsk', flag: '🇳🇴' },
+  { code: 'sk', name: 'Slovenčina', flag: '🇸🇰' },
 ];
 
 const LOGO_URL = 'https://d2xsxph8kpxj0f.cloudfront.net/310519663670070938/o4gumxWho5vK3gUcsVXnRv/zenith-finance-logo-KBT9XXiq6CnYsn7QRyqDCC.webp';

@@ -1,0 +1,202 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Jūsų patikimas partneris visiems finansiniams projektams",
+    "language": "Lietuvių"
+  },
+  "header": {
+    "home": "Pagrindinis",
+    "about": "Apie mus",
+    "services": "Paslaugos",
+    "contact": "Kontaktai",
+    "applyButton": "Pateikti paraišką",
+    "selectLanguage": "Pasirinkite kalbą"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinki, Suomija",
+    "email": "allianzfinanzas0@gmail.com",
+    "followUs": "Sekite mus",
+    "quickLinks": "Greitos nuorodos",
+    "legal": "Teisinė informacija",
+    "privacy": "Privatumo politika",
+    "terms": "Naudojimo sąlygos",
+    "copyright": "© 2024 Zenith Finance. Visos teisės saugomos."
+  },
+  "home": {
+    "hero": {
+      "title": "Jūsų patikimas partneris visiems finansiniams projektams",
+      "subtitle": "Gaukite lanksčius ir greitus finansavimo sprendimus, pritaikytus jūsų poreikiams",
+      "cta": "Pateikti paraišką dabar"
+    },
+    "services": {
+      "title": "Mūsų paslaugos",
+      "subtitle": "Visapusiški finansiniai sprendimai visiems jūsų projektams",
+      "personalLoan": {
+        "title": "Asmeninė paskola",
+        "description": "Gaukite iki €500,000 savo asmeniniams projektams įgyvendinti su konkurencingomis palūkanomis ir supaprastinta procedūra."
+      },
+      "projectFinancing": {
+        "title": "Projektų finansavimas",
+        "description": "Finansuokite savo verslo, nekilnojamojo turto ar komercinius projektus su mūsų ekspertų pagalba ir partneriais."
+      },
+      "nonRefundable": {
+        "title": "Negrąžintinas finansavimas",
+        "description": "Gaukite dotacijas ir finansinę paramą savo veiklai plėtoti be grąžinimo įsipareigojimų."
+      },
+      "businessSupport": {
+        "title": "Verslo pagalba",
+        "description": "Specializuoti finansavimo sprendimai MVĮ ir startuoliams su asmeniniu palaikymu."
+      }
+    },
+    "stats": {
+      "title": "Mūsų svarbiausi skaičiai",
+      "clients": "+5000 patenkintų klientų",
+      "experience": "+10 metų patirties",
+      "approval": "98% patvirtinimo rodiklis",
+      "countries": "Veikla 15 šalių"
+    },
+    "testimonials": {
+      "title": "Mūsų klientų atsiliepimai",
+      "subtitle": "Sužinokite, kaip padėjome klientams įgyvendinti jų projektus",
+      "testimonial1": {
+        "name": "Marie Dupont",
+        "country": "Prancūzija",
+        "amount": "€50,000",
+        "text": "Zenith Finance leido man finansuoti verslo kūrimo projektą vos per 2 savaites. Labai profesionali ir operatyvi komanda!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Ispanija",
+        "amount": "€75,000",
+        "text": "Excelente servicio. El equipo de Zenith Finance fue muy atento y me ayudó a obtener el financiamiento que necesitaba para mi negocio."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Vokietija",
+        "amount": "€120,000",
+        "text": "Sehr professionell und zuverlässig. Zenith Finance hat mir geholfen, mein Immobilienprojekt zu finanzieren. Ich kann sie nur empfehlen!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Belgija",
+        "amount": "€35,000",
+        "text": "Greitas ir efektyvus aptarnavimas. Gavau finansavimą per mažiau nei mėnesį. Labai patenkinta patirtimi su Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italija",
+        "amount": "€250,000",
+        "text": "Zenith Finance mi ha offerto le migliori condizioni di finanziamento. Sono molto soddisfatto del servizio e della professionalità del team."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Nyderlandai",
+        "amount": "€500,000",
+        "text": "Zeer bevredigend. Zenith Finance bood mij de financiering die ik nodig had voor mijn grote project. Aanbevolen!"
+      }
+    },
+    "howItWorks": {
+      "title": "Kaip tai veikia",
+      "subtitle": "Paprastas ir skaidrus procesas per 3 žingsnius",
+      "step1": {
+        "title": "Užpildykite formą",
+        "description": "Per kelias minutes užpildykite mūsų paraiškos formą su savo asmenine informacija ir projektu."
+      },
+      "step2": {
+        "title": "Jūsų paraiškos patvirtinimas",
+        "description": "Mūsų ekspertų komanda peržiūri jūsų paraišką ir per 24 valandas susisieks su atsakymu."
+      },
+      "step3": {
+        "title": "Lėšų gavimas",
+        "description": "Patvirtinus, lėšos pervedamos tiesiai į jūsų sąskaitą per 2-3 darbo dienas."
+      }
+    },
+    "partners": {
+      "title": "Mūsų bankų partneriai",
+      "subtitle": "Dirbame su geriausiomis finansų institucijomis"
+    }
+  },
+  "about": {
+    "title": "Apie Zenith Finance",
+    "introduction": "Zenith Finance yra pirmaujanti Europos finansavimo įmonė, specializuojanti inovatyvių ir prieinamų kredito sprendimų teikime.",
+    "headquarters": "Būstinė: Helsinki, Suomija",
+    "mission": {
+      "title": "Mūsų misija",
+      "description": "Padaryti finansavimą prieinamą visiems, siūlant greitus, skaidrius ir kiekvienam poreikiui pritaikytus sprendimus."
+    },
+    "vision": {
+      "title": "Mūsų vizija",
+      "description": "Tapti patikimu finansiniu partneriu Europoje, pripažintu už meistriškumą, inovacijas ir įsipareigojimą klientams."
+    },
+    "values": {
+      "title": "Mūsų vertybės",
+      "transparency": "Skaidrumas: Aiškiai komunikuojame apie visas sąlygas ir nuostatas.",
+      "innovation": "Inovacijos: Naudojame naujausias technologijas savo paslaugų gerinimui.",
+      "trust": "Pasitikėjimas: Klientų pasitikėjimas yra mūsų didžiausias turtas.",
+      "excellence": "Meistriškumas: Įsipareigojame teikti aukščiausios kokybės paslaugas."
+    },
+    "team": {
+      "title": "Mūsų vadovų komanda",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Generalinis direktorius",
+        "bio": "Turėdamas daugiau nei 15 metų patirtį finansų sektoriuje, Thomas veda Zenith Finance į inovacijas ir augimą."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Finansų direktorė",
+        "bio": "Finansų valdymo ir strategijos ekspertė, Elena užtikrina mūsų operacijų tvirtumą ir stabilumą."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Operacijų direktorius",
+        "bio": "Procesų optimizavimo specialistas, Lars garantuoja mūsų paslaugų efektyvumą ir kokybę."
+      }
+    }
+  },
+  "form": {
+    "title": "Finansavimo paraiška",
+    "subtitle": "Užpildykite žemiau esančią formą, kad pateiktumėte paraišką",
+    "fullName": "Pilnas vardas",
+    "email": "El. pašto adresas",
+    "phone": "Telefono numeris",
+    "countryCode": "Šalies kodas",
+    "country": "Gyvenamosios šalies pavadinimas",
+    "address": "Adresas",
+    "profession": "Profesija / Užsiėmimas",
+    "monthlyIncome": "Mėnesinės pajamos (€)",
+    "desiredAmount": "Pageidaujama suma (€)",
+    "repaymentDuration": "Pageidaujamas grąžinimo laikotarpis",
+    "financingType": "Finansavimo tipas",
+    "personalLoan": "Asmeninė paskola",
+    "projectFinancing": "Projektų finansavimas",
+    "nonRefundable": "Negrąžintinas finansavimas",
+    "other": "Kita",
+    "projectDescription": "Projekto priežastis / aprašymas",
+    "submit": "Pateikti paraišką",
+    "successMessage": "Jūsų paraiška sėkmingai gauta. Mūsų komanda susisieks su jumis per 24 valandas.",
+    "errorMessage": "Įvyko klaida siunčiant jūsų paraišką. Prašome bandyti dar kartą.",
+    "months": "mėn.",
+    "years": "metai"
+  },
+  "contact": {
+    "title": "Susisiekite su mumis",
+    "subtitle": "Esame pasirengę atsakyti į visus jūsų klausimus",
+    "contactInfo": {
+      "title": "Kontaktinė informacija",
+      "address": "Helsinki, Suomija",
+      "email": "allianzfinanzas0@gmail.com"
+    },
+    "contactForm": {
+      "title": "Kontaktinė forma",
+      "name": "Jūsų vardas",
+      "email": "Jūsų el. paštas",
+      "subject": "Tema",
+      "message": "Jūsų žinutė",
+      "submit": "Siųsti",
+      "successMessage": "Jūsų žinutė sėkmingai išsiųsta. Atsakysime per 24 valandas.",
+      "errorMessage": "Įvyko klaida. Prašome bandyti dar kartą."
+    }
+  }
+}

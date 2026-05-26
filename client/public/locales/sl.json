@@ -1,0 +1,202 @@
+{
+  "common": {
+    "appName": "Zenith Finance",
+    "tagline": "Vaš zaupanja vreden partner za vse vaše finančne projekte",
+    "language": "Slovenščina"
+  },
+  "header": {
+    "home": "Domov",
+    "about": "O nas",
+    "services": "Storitve",
+    "contact": "Kontakt",
+    "applyButton": "Oddajte vlogo",
+    "selectLanguage": "Izberite jezik"
+  },
+  "footer": {
+    "company": "Zenith Finance",
+    "address": "Helsinki, Finska",
+    "email": "allianzfinanzas0@gmail.com",
+    "followUs": "Spremljajte nas",
+    "quickLinks": "Hitre povezave",
+    "legal": "Pravne informacije",
+    "privacy": "Politika zasebnosti",
+    "terms": "Pogoji uporabe",
+    "copyright": "© 2024 Zenith Finance. Vse pravice pridržane."
+  },
+  "home": {
+    "hero": {
+      "title": "Vaš zaupanja vreden partner za vse vaše finančne projekte",
+      "subtitle": "Dostopajte do prilagodljivih in hitrih finančnih rešitev, prilagojenih vašim potrebam",
+      "cta": "Oddajte vlogo zdaj"
+    },
+    "services": {
+      "title": "Naše storitve",
+      "subtitle": "Celovite finančne rešitve za vse vaše projekte",
+      "personalLoan": {
+        "title": "Osebno posojilo",
+        "description": "Pridobite do 500.000 € za uresničitev osebnih projektov z ugodnimi obrestnimi merami in poenostavljenim postopkom."
+      },
+      "projectFinancing": {
+        "title": "Financiranje projektov",
+        "description": "Financirajte svoje podjetniške, nepremičninske ali poslovne projekte z našo strokovnostjo in partnerji."
+      },
+      "nonRefundable": {
+        "title": "Nepovratno financiranje",
+        "description": "Dostopajte do subvencij in finančne pomoči za razvoj vaše dejavnosti brez obveznosti vračila."
+      },
+      "businessSupport": {
+        "title": "Pomoč podjetjem",
+        "description": "Specializirane finančne rešitve za MSP in startupe z osebnim svetovanjem."
+      }
+    },
+    "stats": {
+      "title": "Naše ključne številke",
+      "clients": "+5000 zadovoljnih strank",
+      "experience": "+10 let izkušenj",
+      "approval": "98 % odobritev",
+      "countries": "Prisotnost v 15 državah"
+    },
+    "testimonials": {
+      "title": "Mnenja naših strank",
+      "subtitle": "Odkrijte, kako smo pomagali našim strankam uresničiti njihove projekte",
+      "testimonial1": {
+        "name": "Marie Dupont",
+        "country": "Francija",
+        "amount": "€50,000",
+        "text": "Zenith Finance mi je omogočil financiranje mojega podjetniškega projekta v samo 2 tednih. Zelo profesionalna in odzivna ekipa!"
+      },
+      "testimonial2": {
+        "name": "Juan García",
+        "country": "Španija",
+        "amount": "€75,000",
+        "text": "Excelente servicio. El equipo de Zenith Finance fue muy atento y me ayudó a obtener el financiamiento que necesitaba para mi negocio."
+      },
+      "testimonial3": {
+        "name": "Klaus Mueller",
+        "country": "Nemčija",
+        "amount": "€120,000",
+        "text": "Sehr professionell und zuverlässig. Zenith Finance hat mir geholfen, mein Immobilienprojekt zu finanzieren. Ich kann sie nur empfehlen!"
+      },
+      "testimonial4": {
+        "name": "Sophie Martin",
+        "country": "Belgija",
+        "amount": "€35,000",
+        "text": "Hitre in učinkovite storitve. Finančna sredstva sem prejel v manj kot mesecu dni. Zelo zadovoljna z izkušnjo pri Zenith Finance."
+      },
+      "testimonial5": {
+        "name": "Marco Rossi",
+        "country": "Italija",
+        "amount": "€250,000",
+        "text": "Zenith Finance mi je ponudil najboljše pogoje financiranja. Zelo sem zadovoljen s storitvijo in profesionalnostjo ekipe."
+      },
+      "testimonial6": {
+        "name": "Anna van der Berg",
+        "country": "Nizozemska",
+        "amount": "€500,000",
+        "text": "Zelo zadovoljna. Zenith Finance mi je ponudil financiranje, ki sem ga potrebovala za moj velik projekt. Priporočam!"
+      }
+    },
+    "howItWorks": {
+      "title": "Kako deluje",
+      "subtitle": "Preprost in pregleden postopek v 3 korakih",
+      "step1": {
+        "title": "Izpolnite obrazec",
+        "description": "Izpolnite naš obrazec za vlogo v nekaj minutah z vašimi osebnimi podatki in projektom."
+      },
+      "step2": {
+        "title": "Potrditev vaše vloge",
+        "description": "Naša ekipa strokovnjakov pregleda vašo vlogo in vas kontaktira v 24 urah z odgovorom."
+      },
+      "step3": {
+        "title": "Prejem sredstev",
+        "description": "Ko je odobreno, so sredstva nakazana neposredno na vaš račun v 2-3 delovnih dneh."
+      }
+    },
+    "partners": {
+      "title": "Naši bančni partnerji",
+      "subtitle": "Sodelujemo z najboljšimi finančnimi institucijami"
+    }
+  },
+  "about": {
+    "title": "O Zenith Finance",
+    "introduction": "Zenith Finance je vodilno evropsko podjetje za financiranje, specializirano za zagotavljanje inovativnih in dostopnih kreditnih rešitev.",
+    "headquarters": "Sedež: Helsinki, Finska",
+    "mission": {
+      "title": "Naše poslanstvo",
+      "description": "Omogočiti dostop do financiranja vsem z zagotavljanjem hitrih, preglednih in prilagojenih rešitev za vsako potrebo."
+    },
+    "vision": {
+      "title": "Naša vizija",
+      "description": "Postati zaupanja vreden finančni partner v Evropi, prepoznan po odličnosti, inovacijah in zavezanosti do strank."
+    },
+    "values": {
+      "title": "Naše vrednote",
+      "transparency": "Preglednost: Jasno komuniciramo o vseh pogojih in določilih.",
+      "innovation": "Inovacije: Uporabljamo najnovejše tehnologije za izboljšanje naših storitev.",
+      "trust": "Zaupanje: Zaupanje naših strank je naša največja prednost.",
+      "excellence": "Odličnost: Zavezani smo k zagotavljanju storitev najvišje kakovosti."
+    },
+    "team": {
+      "title": "Naša vodstvena ekipa",
+      "ceo": {
+        "name": "Thomas Bergström",
+        "position": "Generalni direktor",
+        "bio": "Z več kot 15 leti izkušenj v finančnem sektorju Thomas vodi Zenith Finance k inovacijam in rasti."
+      },
+      "cfo": {
+        "name": "Elena Rossi",
+        "position": "Finančna direktorica",
+        "bio": "Strokovnjakinja za finančno upravljanje in strategijo, Elena zagotavlja stabilnost in trdnost naših operacij."
+      },
+      "coo": {
+        "name": "Lars Nielsen",
+        "position": "Direktor operacij",
+        "bio": "Specialist za optimizacijo procesov, Lars zagotavlja učinkovitost in kakovost naših storitev."
+      }
+    }
+  },
+  "form": {
+    "title": "Vloga za financiranje",
+    "subtitle": "Izpolnite spodnji obrazec za oddajo vaše vloge",
+    "fullName": "Polno ime",
+    "email": "E-poštni naslov",
+    "phone": "Telefonska številka",
+    "countryCode": "Koda države",
+    "country": "Država prebivališča",
+    "address": "Naslov",
+    "profession": "Poklic / dejavnost",
+    "monthlyIncome": "Mesečni prihodki (€)",
+    "desiredAmount": "Želena vsota (€)",
+    "repaymentDuration": "Želena doba odplačevanja",
+    "financingType": "Vrsta financiranja",
+    "personalLoan": "Osebno posojilo",
+    "projectFinancing": "Financiranje projekta",
+    "nonRefundable": "Nepovratno financiranje",
+    "other": "Drugo",
+    "projectDescription": "Namen / opis projekta",
+    "submit": "Oddaj mojo vlogo",
+    "successMessage": "Vaša vloga je bila uspešno sprejeta. Naša ekipa vas bo kontaktirala v 24 urah.",
+    "errorMessage": "Pri oddaji vaše vloge je prišlo do napake. Prosimo, poskusite znova.",
+    "months": "mesecev",
+    "years": "let"
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "subtitle": "Na voljo smo za vsa vaša vprašanja",
+    "contactInfo": {
+      "title": "Kontaktni podatki",
+      "address": "Helsinki, Finska",
+      "email": "allianzfinanzas0@gmail.com"
+    },
+    "contactForm": {
+      "title": "Kontaktni obrazec",
+      "name": "Vaše ime",
+      "email": "Vaš e-poštni naslov",
+      "subject": "Zadeva",
+      "message": "Vaše sporočilo",
+      "submit": "Pošlji",
+      "successMessage": "Vaše sporočilo je bilo uspešno poslano. Odgovorili vam bomo v 24 urah.",
+      "errorMessage": "Prišlo je do napake. Prosimo, poskusite znova."
+    }
+  }
+}
