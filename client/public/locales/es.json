@@ -16,8 +16,6 @@
     "company": "Zenith Finance",
     "address": "Helsinki, Finlandia",
     "email": "allianzfinanzas0@gmail.com",
-    "phone": "+358 45 73966157",
-    "whatsapp": "WhatsApp",
     "followUs": "Síguenos",
     "quickLinks": "Enlaces Rápidos",
     "legal": "Legal",
@@ -188,9 +186,7 @@
     "contactInfo": {
       "title": "Información de Contacto",
       "address": "Helsinki, Finlandia",
-      "email": "allianzfinanzas0@gmail.com",
-      "phone": "+358 45 73966157",
-      "whatsapp": "Disponible en WhatsApp"
+      "email": "allianzfinanzas0@gmail.com"
     },
     "contactForm": {
       "title": "Formulario de Contacto",
